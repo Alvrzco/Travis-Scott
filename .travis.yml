@@ -1,0 +1,8 @@
+language: java
+jdk:
+- openjdk8
+script:
+- test/run.sh
+notifications:
+webhooks:
+https://udcgal.webhook.office.com/webhookb2/efafe88e-966d-4c34-bc25-74bead18d913@cea1ea3e-60b2-4f75-a6c2-a6022e8f961b/TravisCI/26da310e39554fcd944712e03f34d8ff/99763f32-b096-47a3-97b3-ad809cba8130

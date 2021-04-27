@@ -1,0 +1,6 @@
+com/example/springboot/BebidasTest.java
+ com.example.springboot.BebidasTest
+com/example/springboot/OcioCorunaTest.java
+ com.example.springboot.OcioCorunaTest
+com/example/springboot/CitiesTest.java
+ com.example.springboot.CitiesTest
